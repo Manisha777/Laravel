@@ -5328,6 +5328,5 @@ td.visible-print, th.visible-print {
 	display:inline-block!important
 }
 .san_hidden-print {
-	display:none!important
-}
+	display:none!important;
 }
